@@ -220,7 +220,7 @@
                 {
                     "name": "",
                     "id": "1b212e42-9990-43fa-94fa-b72cb55e297c",
-                    "path": "<Gamepad>/buttonEast",
+                    "path": "<Gamepad>/buttonSouth",
                     "interactions": "",
                     "processors": "",
                     "groups": "Gamepad",
@@ -231,7 +231,7 @@
                 {
                     "name": "",
                     "id": "ec048478-1a8c-4b66-8cee-24526e1f0fe9",
-                    "path": "<Keyboard>/anyKey",
+                    "path": "<Keyboard>/enter",
                     "interactions": "",
                     "processors": "",
                     "groups": "Keyboard&Mouse",

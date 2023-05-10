@@ -145,9 +145,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   moveInput: {x: 0, y: 0}
-  speed: 15
-  jumpForce: 50
-  crouchTreshold: -0.5
+  speed: 750
+  jumpForce: 2000
+  crouchThreshold: -0.5
+  walkThreshold: 0.5
   _isWalking: 0
   _isFacingRight: 1
   _isCrouched: 1

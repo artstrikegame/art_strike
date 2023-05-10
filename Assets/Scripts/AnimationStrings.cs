@@ -13,4 +13,6 @@ internal class AnimationStrings
     internal static string isGrounded = "isGrounded";
     internal static string velocityY = "velocityY";
     internal static string triggerJump = "triggerJump";
+    internal static string canWalk = "canWalk";
+    internal static string canJump = "canJump";
 }
